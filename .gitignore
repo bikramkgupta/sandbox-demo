@@ -1,0 +1,8 @@
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
+.snapshot_id
+.DS_Store
